@@ -1,8 +1,6 @@
-## Hi there 👋
+## Hello there 👋
 
 <!--
-**ram-nush/ram-nush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am Ram, a Year 2 Information Security student from the National University of Singapore.
+
+I am starting out in the world of developing applications, which teaches me more than watching tutorials.
+
+My current tech stack is React Native and TypeScript.
+
+My aim is to build 3 applications by the end of the year.
+
+Occasionally, I take part in Capture-the-Flag competitions, so I will document my findings here.
